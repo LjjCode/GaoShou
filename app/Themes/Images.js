@@ -1,0 +1,42 @@
+// @flow
+
+// leave off @2x/@3x
+const images = {
+	index: require('../Images/index.png'),
+	indexOne: require('../Images/index_one.png'),
+	indexTwo: require('../Images/index_two.png'),
+	indexThree: require('../Images/index_three.png'),
+	homeTab: require('../Images/main_tab_ic_home_normal.png'),
+    homeTabed: require('../Images/main_tab_ic_home_selected.png'),
+	mineTab: require('../Images/main_tab_ic_mine_normal.png'),
+	mineTabed: require('../Images/main_tab_ic_mine_selected.png'),
+    messageTab: require('../Images/main_tab_ic_msg_normal.png'),
+    messageTabed: require('../Images/main_tab_ic_msg_selected.png'),
+    mineCollectGs: require('../Images/mine_collect_gs.png'),
+    mineCollectInfo: require('../Images/mine_collect_info.png'),
+    mineCollectExam: require('../Images/mine_collect_exam.png'),
+    mineSuggestion: require('../Images/mine_suggestion.png'),
+    mineIntroduction: require('../Images/mine_introduction.png'),
+    mineSet: require('../Images/mine_set.png'),
+    mineEnter: require('../Images/enter_btn.png'),
+    bannerOne: require('../Images/banner1.png'),
+    bannerTwo: require('../Images/banner2.png'),
+    bannerThree: require('../Images/banner3.png'),
+    bannerFour: require('../Images/banner4.png'),
+    bannerFive: require('../Images/banner5.png'),
+    homeSearch: require('../Images/yuegaoshou_icon.png'),
+    homeInfo: require('../Images/kanzixun_icon.png'),
+    homeBook: require('../Images/zaixianxue_icon.png'),
+    returnArrow: require('../Images/return_btn.png'),
+    searchIcon: require('../Images/search_icon.png'),
+    searchQingIcon: require('../Images/searchqing_icon.png'),
+    arrowDownIcon: require('../Images/arrowdown_icon.png'),
+    arrowUpIcon: require('../Images/arrowup_icon.png'),
+    arrowUpIcon: require('../Images/arrowup_icon.png'),
+    collectIcon: require('../Images/follow1_btn.png'),
+    unCollectIcon: require('../Images/follow2_btn.png'),
+    moreIcon: require('../Images/more_btn.png'),
+    weixinIcon: require('../Images/weixindl_btn.png'),
+}
+
+export default images

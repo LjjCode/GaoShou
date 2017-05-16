@@ -1,0 +1,30 @@
+[
+  {
+    "imgUrl": "https://api.wanxue.cn/baseWms/static/upload/book/2016-08/23503_1471837805870.jpg",
+    "id": 109,
+    "description": "  学术硕士与专业硕士,十三大学科门类,考试科目与题型,国家线与自划线知多少? ",
+    "type": 5,
+    "bookName": "考研基本知识"
+  },
+  {
+    "imgUrl": "https://api.wanxue.cn/baseWms/static/upload/book/2016-08/21872_1471837818285.jpg",
+    "id": 103,
+    "description": "  本文详细阐述了如何通过万学考研核心原理，从而全方位提高学员的学习效率。",
+    "type": 5,
+    "bookName": "考研核心学习原理"
+  },
+  {
+    "imgUrl": "https://api.wanxue.cn/baseWms/static/upload/book/2016-08/73056_1471837828938.jpg",
+    "id": 106,
+    "description": "  汇集多位考研高分学员的经验谈，与大家分享、共勉",
+    "type": 5,
+    "bookName": "考研状元高价值经验报告"
+  },
+  {
+    "imgUrl": "https://api.wanxue.cn/baseWms/static/upload/book/2016-08/61884_1471837839107.jpg",
+    "id": 116,
+    "description": "  政治、英语、数学、199管理类联考和专业课全年复习总规划",
+    "type": 5,
+    "bookName": "考研高级学习规划"
+  }
+]

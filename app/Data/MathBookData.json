@@ -1,0 +1,79 @@
+[
+  {
+    "imgUrl": "https://api.wanxue.cn/baseWms/static/upload/book/2016-08/38666_1471836932366.jpg",
+    "id": 208,
+    "description": " 数学(农)标准精品教程由高等数学、线性代数、概率论与数理统计三门学科组成，按照考纲要求讲解各个学科的章节的重难点以及重点题型的解题技巧。  ",
+    "type": 2,
+    "bookName": " 数学(农)标准精品教程"
+  },
+  {
+    "imgUrl": "https://api.wanxue.cn/baseWms/static/upload/book/2016-08/78043_1471836972305.jpg",
+    "id": 133,
+    "description": "数学(一)2003-2015年历年真题及答案",
+    "type": 2,
+    "bookName": "数学(一)历年真题"
+  },
+  {
+    "imgUrl": "https://api.wanxue.cn/baseWms/static/upload/book/2016-08/89935_1471836992632.jpg",
+    "id": 157,
+    "description": "本书按照考研大纲的要求，对历年考研真题分题型逐题给出详细解答，且绝大部分真题给出了一题多解。",
+    "type": 2,
+    "bookName": "数学(一)历年真题分类解析超详解"
+  },
+  {
+    "imgUrl": "https://api.wanxue.cn/baseWms/static/upload/book/2016-08/79387_1471837011239.jpg",
+    "id": 130,
+    "description": "数学(一)标准精品教程由高等数学、线性代数、概率论与数理统计三门学科组成，按照考纲要求讲解各个学科的章节的重难点以及重点题型的解题技巧。",
+    "type": 2,
+    "bookName": "数学(一)标准精品教程"
+  },
+  {
+    "imgUrl": "https://api.wanxue.cn/baseWms/static/upload/book/2016-08/95471_1470897700855.jpg",
+    "id": 142,
+    "description": "  本书是数学(一)考试大纲，主要包括考试内容和考试要求，分三部分高等数学、线性代数和概率论与数理统计",
+    "type": 2,
+    "bookName": "数学(一)考试大纲解读"
+  },
+  {
+    "imgUrl": "https://api.wanxue.cn/baseWms/static/upload/book/2016-08/95602_1471837108369.jpg",
+    "id": 135,
+    "description": "数学(三)2003-2015年历年真题及答案",
+    "type": 2,
+    "bookName": "数学(三)历年真题"
+  },
+  {
+    "imgUrl": "https://api.wanxue.cn/baseWms/static/upload/book/2016-08/72932_1471837119836.jpg",
+    "id": 159,
+    "description": "本书按照考研大纲的要求，对历年考研真题分题型逐题给出详细解答，且绝大部分真题给出了一题多解。",
+    "type": 2,
+    "bookName": "数学(三)历年真题分类解析超详解"
+  },
+  {
+    "imgUrl": "https://api.wanxue.cn/baseWms/static/upload/book/2016-08/39241_1471837226107.jpg",
+    "id": 132,
+    "description": "数学(三)标准精品教程由高等数学、线性代数、概率论与数理统计三门学科组成，按照考纲要求讲解各个学科的章节的重难点以及重点题型的解题技巧。",
+    "type": 2,
+    "bookName": "数学(三)标准精品教程"
+  },
+  {
+    "imgUrl": "https://api.wanxue.cn/baseWms/static/upload/book/2016-08/56007_1471837236862.jpg",
+    "id": 144,
+    "description": "  本书是数学（三）考试大纲，主要包括考试内容和考试要求，共分为高等数学、线性代数和概率论与数理统计。",
+    "type": 2,
+    "bookName": "数学(三)考试大纲解读"
+  },
+  {
+    "imgUrl": "https://api.wanxue.cn/baseWms/static/upload/book/2016-08/50179_1471837253470.jpg",
+    "id": 134,
+    "description": "数学(二)2003-2015年历年真题及答案",
+    "type": 2,
+    "bookName": "数学(二)历年真题"
+  },
+  {
+    "imgUrl": "https://api.wanxue.cn/baseWms/static/upload/book/2016-08/94011_1471837271643.jpg",
+    "id": 158,
+    "description": "本书按照考研大纲的要求，对历年考研真题分题型逐题给出详细解答，且绝大部分真题给出了一题多解。",
+    "type": 2,
+    "bookName": "数学(二)历年真题分类解析超详解"
+  }
+]

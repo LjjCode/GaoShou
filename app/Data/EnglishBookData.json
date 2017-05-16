@@ -1,0 +1,72 @@
+[
+  {
+    "imgUrl": "https://api.wanxue.cn/baseWms/static/upload/book/2016-08/38723_1471838548820.jpg",
+    "id": 207,
+    "description": "通过阅读文章及释义对考研核心词进行一个全面的掌握。",
+    "type": 1,
+    "bookName": "考研核心词汇强化记忆通稿"
+  },
+  {
+    "imgUrl": "https://api.wanxue.cn/baseWms/static/upload/book/2016-08/25158_1471838557912.jpg",
+    "id": 206,
+    "description": "对考研英语中的核心级词汇和拔高级词汇进行了一个全面的梳理和划分，有助于考生彻底打通考研英语中的词汇关。",
+    "type": 1,
+    "bookName": "考研英语分级词汇记忆宝典"
+  },
+  {
+    "imgUrl": "https://api.wanxue.cn/baseWms/static/upload/book/2016-08/96320_1471838577338.jpg",
+    "id": 200,
+    "description": "对新大纲要求的词汇从音标、释义、真题例句等维度进行一个全面、彻底的解析，各位考生需要熟练掌握并灵活运用。",
+    "type": 1,
+    "bookName": "考研词汇高效速记宝典"
+  },
+  {
+    "imgUrl": "https://api.wanxue.cn/baseWms/static/upload/book/2016-08/41892_1471838589765.jpg",
+    "id": 96,
+    "description": "本书对2006-2015年考研英语一的真题进行了全方位、透彻的解析，为各位考生训练英语真题提供了一个很好的参考。",
+    "type": 1,
+    "bookName": "英语(一)历年真题超详解"
+  },
+  {
+    "imgUrl": "https://api.wanxue.cn/baseWms/static/upload/book/2016-08/22370_1471838598125.jpg",
+    "id": 52,
+    "description": "英语标准精品教程包含词汇、语法、完型、阅读、新题型、翻译、写作七大部分，详细讲解了各题型的解题技巧，并附有配套练习。",
+    "type": 1,
+    "bookName": "英语(一)标准精品教程"
+  },
+  {
+    "imgUrl": "https://api.wanxue.cn/baseWms/static/upload/book/2016-08/44643_1471838607051.jpg",
+    "id": 146,
+    "description": "详解2016考研英语试题的考试形式、考试内容及试卷结构",
+    "type": 1,
+    "bookName": "英语(一)考试大纲解读"
+  },
+  {
+    "imgUrl": "https://api.wanxue.cn/baseWms/static/upload/book/2016-08/31708_1471838616627.jpg",
+    "id": 123,
+    "description": "该书籍总结了2010-2015年的英语（二）考研真题，并附有答案讲解，可以帮助考生更深入的了解考研英语，把握命题规律。",
+    "type": 1,
+    "bookName": "英语(二)历年真题超详解"
+  },
+  {
+    "imgUrl": "https://api.wanxue.cn/baseWms/static/upload/book/2016-08/93376_1471838625072.jpg",
+    "id": 141,
+    "description": "英语标准精品教程包含词汇、语法、完型、阅读、新题型、翻译、写作七大部分，详细讲解了各题型的解题技巧，并附有配套练习。",
+    "type": 1,
+    "bookName": "英语(二)标准精品教程"
+  },
+  {
+    "imgUrl": "https://api.wanxue.cn/baseWms/static/upload/book/2016-08/39565_1471838634427.jpg",
+    "id": 148,
+    "description": "详解考研英语试题的考试形式、考试内容及试卷结构",
+    "type": 1,
+    "bookName": "英语(二)考试大纲解读"
+  },
+  {
+    "imgUrl": "https://api.wanxue.cn/baseWms/static/upload/book/2016-08/74549_1471838651431.jpg",
+    "id": 164,
+    "description": "本书对考研英语写作中短文写作的大纲要求，高分策略以及具体技巧进行了详细的介绍和举例，一定会对各位考研学子的短文写作大有裨益。",
+    "type": 1,
+    "bookName": "英语写作必背范文(上)"
+  }
+]

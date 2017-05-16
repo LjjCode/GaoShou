@@ -1,0 +1,65 @@
+[
+  {
+    "imgUrl": "https://api.wanxue.cn/baseWms/static/upload/book/2016-08/44029_1471837618223.jpg",
+    "id": 138,
+    "description": "  对2006年至2015年政治真题进行全面、全方位、多角度详解",
+    "type": 3,
+    "bookName": "政治历年真题超详解"
+  },
+  {
+    "imgUrl": "https://api.wanxue.cn/baseWms/static/upload/book/2016-08/89567_1471837627785.jpg",
+    "id": 147,
+    "description": "  对可能考查的知识点进行精准定位，提供给考生考前必备“红宝书”",
+    "type": 3,
+    "bookName": "政治必背核心知识模块"
+  },
+  {
+    "imgUrl": "https://api.wanxue.cn/baseWms/static/upload/book/2016-08/86700_1471837640066.jpg",
+    "id": 145,
+    "description": "  对考研政治所有知识点，特别是重点、难点、易考点详解",
+    "type": 3,
+    "bookName": "政治标准精品教程"
+  },
+  {
+    "imgUrl": "https://api.wanxue.cn/baseWms/static/upload/book/2016-08/82396_1471837674676.jpg",
+    "id": 127,
+    "description": "对马克思主义基本原理概论主要知识点以习题的形式进行了详细全面的讲解，为大家复习政治提供了很好的题库，以供参考。  基础过关篇——对点训练，全面覆盖考点，点对点训练，截取教材内容，面对面考查，夯实应试基础，一对一复习。",
+    "type": 3,
+    "bookName": "政治经典2000题精解基础过关（一）"
+  },
+  {
+    "imgUrl": "https://api.wanxue.cn/baseWms/static/upload/book/2016-08/38691_1471837684716.jpg",
+    "id": 155,
+    "description": "对中国近现代史纲要主要知识点以习题的形式进行了详细全面的讲解，为大家复习政治提供了很好的题库，以供参考。  基础过关篇——对点训练，全面覆盖考点，点对点训练，截取教材内容，面对面考查，夯实应试基础，一对一复习。",
+    "type": 3,
+    "bookName": "政治经典2000题精解基础过关（三）"
+  },
+  {
+    "imgUrl": "https://api.wanxue.cn/baseWms/static/upload/book/2016-08/62644_1471837696582.jpg",
+    "id": 154,
+    "description": "对毛泽东思想和中国特色社会主义理论体系概论主要知识点以习题的形式进行了详细全面的讲解，为大家复习政治提供了很好的题库，以供参考。  基础过关篇——对点训练，全面覆盖考点，点对点训练，截取教材内容，面对面考查，夯实应试基础，一对一复习。",
+    "type": 3,
+    "bookName": "政治经典2000题精解基础过关（二）"
+  },
+  {
+    "imgUrl": "https://api.wanxue.cn/baseWms/static/upload/book/2016-08/68463_1471837715810.jpg",
+    "id": 156,
+    "description": "对思想道德修养与法律基础主要知识点以习题的形式进行了详细全面的讲解，为大家复习政治提供了很好的题库，以供参考。",
+    "type": 3,
+    "bookName": "政治经典2000题精解基础过关（四）"
+  },
+  {
+    "imgUrl": "https://api.wanxue.cn/baseWms/static/upload/book/2016-08/26234_1471837725022.jpg",
+    "id": 160,
+    "description": "对考研政治的主要科目进行提升训练，夯实基础，精准预测",
+    "type": 3,
+    "bookName": "政治经典2000题精解能力强化（一）"
+  },
+  {
+    "imgUrl": "https://api.wanxue.cn/baseWms/static/upload/book/2016-08/37483_1471837751912.jpg",
+    "id": 162,
+    "description": " 对考研政治的主要科目进行提升训练，夯实基础，精准预测",
+    "type": 3,
+    "bookName": "政治经典2000题精解能力强化（三）"
+  }
+]

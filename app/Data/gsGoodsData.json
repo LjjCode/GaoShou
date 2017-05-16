@@ -1,0 +1,22 @@
+[
+  {
+    "id": 59,
+    "title": "报考咨询",
+    "consultTime": "一个小时",
+    "description": "本人是普通二本院校毕业生，最终逆袭成功，因此有着丰富的考研经验，选择院校和专业，联系导师，复试准备，prize、ppt制作等等都是及其重要的一环，欢迎咨询。",
+    "goodPrice": 50,
+    "type": 1,
+    "isShelves": 1
+  },
+  {
+    "id": 60,
+    "coachBeginTime": 1477065600000,
+    "title": "一对一辅导",
+    "consultTime": "",
+    "description": "本人是普通二本院校毕业生，最终逆袭成功，因此有着丰富的考研经验，选择院校和专业，联系导师，复试准备，prize、ppt制作等等都是及其重要的一环，欢迎咨询。",
+    "coachEndTime": 1482854400000,
+    "goodPrice": 100,
+    "type": 3,
+    "isShelves": 1
+  }
+]
